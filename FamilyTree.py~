@@ -1,5 +1,5 @@
 from Person import *
-"""asdasd"""
+
 class FamilyTree(object):
 
     def __init__(self):
